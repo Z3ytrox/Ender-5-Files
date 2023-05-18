@@ -1,2 +1,4 @@
 camera="usb"
 camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-046d_C270_HD_WEBCAM_200901010001-video-index0"
+flip_v= true
+flip_h= true
